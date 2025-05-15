@@ -9,8 +9,9 @@
 # 🍃 Overview
 ![Frame](https://github.com/user-attachments/assets/0911a0ff-4ba7-44da-ba13-a6aa8ac8aea6)
 From registration to donation—all in a few taps.
-</br>
+</br> </br>
 `CLOOP` turns good intentions into real sustainable action.
+</br>
 CLOOP is a sustainable wardrobe management app that helps you record, organize, and recycle your clothes efficiently.
 </br>
 
