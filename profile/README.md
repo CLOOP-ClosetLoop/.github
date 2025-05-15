@@ -123,3 +123,27 @@ CLOOP is a sustainable wardrobe management app that helps you record, organize, 
 
 ![Frame](https://github.com/user-attachments/assets/2fb9acb7-669b-4c2a-9c16-d1c9d1e96b7e)
 </br>
+
+### 📌 Backend (BE)
+- **Language**: Java 17  
+- **Framework**: Spring Boot  
+- **Database**: MySQL  
+- **Authentication**: 
+  - Google OAuth 2.0 
+  - JWT (JSON Web Token)  
+- **AI Integration**: Gemini API (via HTTP request)  
+- **API Documentation**: Swagger (Springdoc OpenAPI)  
+- **Deployment**: Docker, AWS EC2  
+
+---
+
+### 📌 Frontend (FE)
+- **Language**: Kotlin  
+- **Tool**: Android Studio  
+- **Architecture**: MVVM (Model-View-ViewModel)  
+- **Jetpack Components**
+  - AppCompat  
+  - LifeCycles  
+  - ViewModel  
+  - LiveData  
+  - ViewPager2  
