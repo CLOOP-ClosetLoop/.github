@@ -12,12 +12,9 @@ From registration to donation—all in a few taps.
 </br> </br>
 `CLOOP` turns good intentions into real sustainable action.
 </br>
-CLOOP is a sustainable wardrobe management app that helps you record, organize, and recycle your clothes efficiently.
-</br>
 
+✅ Check out our app [overview](https://storage.googleapis.com/vision-hack2skill-production/innovator/USER00368756/1747403613926-CLOOPGDSCSolutionChallenge2025.pdf) and [demo video](https://www.youtube.com/watch?v=3nnp0zJQwYM) !
 </br></br>
-
-
 
 ## 🌿 Features
 <table>
@@ -123,6 +120,13 @@ CLOOP is a sustainable wardrobe management app that helps you record, organize, 
 
 ![Frame](https://github.com/user-attachments/assets/2fb9acb7-669b-4c2a-9c16-d1c9d1e96b7e)
 </br>
+
+### Developer
+| [Juyeon Park](https://github.com/Zuyeonn) | [Sihyun Kim](https://github.com/5IHYUN) | [Wonjeong Ko](https://github.com/on1yoneprivate) |
+|:------:|:------:|:------:|
+|`FrontEnd`|`BackEnd`|`BackEnd`|
+
+<br/>
 
 ### 📌 Backend (BE)
 - **Language**: Java 17  
