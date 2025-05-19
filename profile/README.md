@@ -122,7 +122,7 @@ From registration to donation—all in a few taps.
 </br>
 
 ### Developer
-| [Juyeon Park](https://github.com/Zuyeonn) | [Sihyun Kim](https://github.com/5IHYUN) | [Wonjeong Ko](https://github.com/on1yoneprivate) |
+| [Juyeon Park](https://github.com/Zuyeonn) | [Sihyun Kim](https://github.com/5IHYUN) | [Wonjung Go](https://github.com/on1yoneprivate) |
 |:------:|:------:|:------:|
 |`FrontEnd`|`BackEnd`|`BackEnd`|
 
